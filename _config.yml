@@ -15,7 +15,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Theme-specific settings
+include:
+  - "_assets/docker"
 
 minima:
   # Minima date format.
