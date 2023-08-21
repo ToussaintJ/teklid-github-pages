@@ -6,6 +6,6 @@ author: Jérémy Toussaint
 email: jeremy@toussaint.dev
 avatar: assets/images/avatar.jpg
 
-theme: jekyll-theme-prologue
+theme: minima
 collections: [sections]
 
