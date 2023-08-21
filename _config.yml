@@ -5,3 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Jérémy Toussaint
 email: jeremy@toussaint.dev
 avatar: assets/images/avatar.jpg
+
+theme: jekyll-theme-prologue
+collections: [sections]
+
