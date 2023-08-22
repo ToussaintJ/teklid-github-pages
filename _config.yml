@@ -7,8 +7,10 @@ author:
 description: >
   Discover tech concepts in a playful twist, where charming confusion meets light-hearted explanations. Unveil the magic of befuddling brilliance!
 
-# Build settings
 
+baseurl: https://toussaintj.github.io/teklid-github-pages
+
+# Build settings
 theme: minima
 
 plugins:
