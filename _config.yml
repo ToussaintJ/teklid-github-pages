@@ -2,10 +2,8 @@ title: Teklid
 author:
   name: ToussaintJ
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Discover tech concepts in a playful twist, where charming confusion meets light-hearted explanations. Unveil the magic of befuddling brilliance!
+  I asked ChatGPT to write articles about subjects it choose. The only instruction I gave is: be as vague and confusing as possible. What could go wrong ?
 
 domain: toussaintj.github.io
 baseurl: /teklid-github-pages/
