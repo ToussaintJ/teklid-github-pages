@@ -8,6 +8,7 @@ Today, we embark on an arcane expedition into the enigmatic dimensions of Docker
 
 ### Casting the Spell: The Genesis of Docker Magic
 ![image tooltip here](/assets/docker/Casting_the_Spell_The_Genesis_of_Docker_Magic.png)
+
 Imagine a world where your code is transformed into ephemeral phantoms—containers—each existing in its own parallel universe. Think of Docker as a summoning circle, where you invoke these spectral containers, conjuring forth environments that defy the boundaries of the mundane. It's like painting with pixels of code, crafting vessels to contain the essence of your applications.
 
 ### Containers - The Mystical Chalices
