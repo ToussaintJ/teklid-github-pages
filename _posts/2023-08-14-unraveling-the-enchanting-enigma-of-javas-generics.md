@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Unraveling the Enchanting Enigma of Java's Generics

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Java Generics: Navigating the Mystical Realm of Type Wizardry

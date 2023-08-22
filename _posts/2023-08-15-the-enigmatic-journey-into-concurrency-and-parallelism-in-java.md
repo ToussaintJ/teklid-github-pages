@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # The Enigmatic Journey into Concurrency and Parallelism in Java

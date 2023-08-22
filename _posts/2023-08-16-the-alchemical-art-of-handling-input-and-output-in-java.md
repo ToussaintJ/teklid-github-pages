@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # The Alchemical Art of Handling Input and Output in Java

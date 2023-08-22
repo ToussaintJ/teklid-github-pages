@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Spring
 ---
 
 # Navigating the Cosmic Seas of Dependency Injection in Spring

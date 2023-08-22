@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Navigating the Enchanted Realms of Java's Object-Oriented Paradigm

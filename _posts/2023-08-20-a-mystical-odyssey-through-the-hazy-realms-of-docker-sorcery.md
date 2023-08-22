@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 ## Greetings, digital alchemists and code conjurers!

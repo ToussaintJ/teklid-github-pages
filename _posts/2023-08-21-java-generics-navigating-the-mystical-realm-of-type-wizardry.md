@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Exploring the Mystical Realms of Exception Handling in Java

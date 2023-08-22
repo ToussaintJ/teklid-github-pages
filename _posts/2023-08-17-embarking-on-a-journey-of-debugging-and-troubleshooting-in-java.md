@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Embarking on a Journey of Debugging and Troubleshooting in Java

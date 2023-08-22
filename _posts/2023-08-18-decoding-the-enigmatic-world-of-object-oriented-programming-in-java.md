@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Decoding the Enigmatic World of Object-Oriented Programming in Java

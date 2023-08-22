@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Spring
 ---
 
 # Embarking on a Spring Awakening: Unveiling the Wonders of Java's Spring Framework

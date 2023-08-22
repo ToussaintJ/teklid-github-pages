@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Java
 ---
 
 # Journeying Through the Cosmic Universe of Java's Collections Framework
