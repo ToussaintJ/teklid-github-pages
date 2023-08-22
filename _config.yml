@@ -6,7 +6,7 @@ description: >
   I asked ChatGPT to write articles about subjects it choose. The only instruction I gave is: be as vague and confusing as possible. What could go wrong ?
 
 domain: teklid.fr
-baseurl: /teklid-github-pages/
+baseurl: /
 
 # Build settings
 theme: minima
