@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, code adventurers and digital troubadours! Prepare to unravel the enigma that is Git, a labyrinthine landscape of version control where commits waltz and branches tango, crafting a cacophony of coding brilliance.
 
 ![Git Chaos](/assets/images/git_chaos.png)
-Generate an image of a grand symphony hall where commits and branches dance in harmony.
 
 ## The Git Opera
 
@@ -21,7 +20,6 @@ Imagine Git as a grand opera, where commits take the stage as virtuoso musicians
 Enter the dance of branches, where code pirouettes in diverse directions like actors in a Shakespearean play. It's a masquerade ball of innovation, a realm where developers don masks of experimentation, ensuring the gala of creativity remains undisturbed.
 
 ![Branch Ballet](/assets/images/branch_ballet.png)
-Generate an image of developers in masks, gracefully dancing as branches in a ballroom.
 
 ## The Conductor's Contrivance: Merging Melodies
 
@@ -32,7 +30,6 @@ Envision the maestro uniting two symphonies, crafting a crescendo from dissonanc
 Witness the magical time travel of commits! Embark on a journey through project history, guided by commits as portals. It's akin to a DeLorean ride for your code, complete with quantum leaps minus the flux capacitor.
 
 ![Commit Time Travel](/assets/images/commit_time_travel.png)
-Generate an image of a developer riding a commit portal like a time-traveling vehicle.
 
 ## Confusion? Collaboration!
 
@@ -43,7 +40,6 @@ Amidst Git's tempestuous tango, confusion sometimes takes the lead. Yet, from ch
 As the curtain descends, we enter the grand finale: the push and pull requests. It's akin to summoning attendees to a coding soiree, where developers convene to refine, scrutinize, and celebrate the opus of code.
 
 ![Push and Pull](/assets/images/push_pull.png)
-Generate an image of developers sending invitations to a coding soiree with push and pull requests.
 
 ## Applause for Git's Encore
 

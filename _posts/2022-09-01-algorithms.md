@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, code explorers and algorithm alchemists! Join us on a journey through the wondrous realm of algorithms, where lines of code become spells that solve the enigmatic riddles of logic.
 
 ![Algorithm Realm](/assets/images/algorithm_realm.png)
-Generate the image of a magical realm with algorithmic paths weaving through enchanted landscapes.
 
 ## The Algorithm Enigma: Code's Hidden Key
 
@@ -21,7 +20,6 @@ Imagine algorithms as the hidden keys that unlock the treasure chests of logic. 
 Enter the realm of sorting sorcery, where algorithms arrange data like alchemical potions. Bubble wizards and merge mages conjure spells that reorder data elements into harmonious sequences.
 
 ![Sorting Sorcery](/assets/images/sorting_sorcery.png)
-Generate the image of a sorting sorcerer crafting algorithms to arrange data elements.
 
 ## Searching Spells: The Algorithmic Quest
 
@@ -32,7 +30,6 @@ Algorithms embark on searching quests, scouring data realms for hidden gems. Bin
 Recursion is a maze of algorithms, a realm where functions call themselves, creating intricate patterns. It's like venturing through a magical forest, each step leading deeper into the heart of the enchanted woods.
 
 ![Recursion Realms](/assets/images/recursion_realms.png)
-Generate the image of an algorithmic forest with functions calling themselves in recursion.
 
 ## Greedy Goblins: The Algorithmic Choice
 
@@ -43,7 +40,6 @@ Greedy algorithms are like goblins collecting the shiniest loot. They make choic
 Enter the realm of dynamic programming, where algorithms weave a tapestry of optimal solutions. It's like crafting a mosaic from puzzle pieces, where each tile fits harmoniously into the larger design.
 
 ![Dynamic Programming](/assets/images/dynamic_programming.png)
-Generate the image of algorithms creating a dynamic programming tapestry of optimal solutions.
 
 ## The Algorithm Symphony: Logic's Dance
 

@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, fellow code detectives and bug whisperers! Embark with us on a journey through the enigmatic world of debugging, where every line of code hides a riddle waiting to be solved.
 
 ![Debugging Realm](/assets/images/debugging_realm.png)
-Generate the image of a surreal realm filled with floating code snippets and magnifying glasses.
 
 ## The Code Whodunit: Tracking the Culprit
 
@@ -21,7 +20,6 @@ Imagine debugging as a crime scene investigation, where bugs play the role of el
 Enter the realm of debugging tools, where magnifying glasses wield magic. They peer into the code's depths, revealing hidden variables, twisted logic, and syntax sorcery. It's like seeing the unseen with mystical clarity.
 
 ![Magnifying Glass Magic](/assets/images/magnifying_glass_magic.png)
-Generate the image of a magnifying glass uncovering hidden bugs within code.
 
 ## The Eureka Moment: Breakpoint Epiphanies
 
@@ -32,7 +30,6 @@ Behold, the eureka moment when you plant breakpoints like breadcrumbs along the 
 Code spelunking is like exploring dark caves where bugs hide in shadows. Armed with a virtual torch, you traverse nested loops, examine variable tunnels, and discover logic chambers. Who knew code could be this mysterious?
 
 ![Code Spelunking](/assets/images/code_spelunking.png)
-Generate the image of a coder spelunking into the depths of code caves to find hidden bugs.
 
 ## The Whimsical Watchdog: Rubber Duck Debugging
 
@@ -43,7 +40,6 @@ Imagine debugging with a whimsical watchdog by your side. A rubber duck, wise an
 Debugging is a bit like alchemy, where each line of code is an ingredient in a potion. You mix variables, stir logic, and wait for the brew to bubble with the truth. It's like concocting magic from the arcane runes of code.
 
 ![Line by Line Alchemy](/assets/images/line_by_line_alchemy.png)
-Generate the image of a detective brewing a potion with code lines as ingredients.
 
 ## The Bug Vanquisher: Victorious Rejoicing
 

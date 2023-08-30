@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, data duelists and information architects! Step onto the battlefield of databases as we witness the legendary clash between SQL and NoSQL. It's a conundrum of structured verses unstructured, tables verses documents, and the realm of data lies in the balance.
 
 ![Database Duel](/assets/images/database_duel.png)
-Generate the image of a mythical arena with the SQL and NoSQL realms engaged in a duel.
 
 ## SQL Citadel: The Structured Empire
 
@@ -21,7 +20,6 @@ Imagine SQL as a grand citadel with orderly tables and structured data. Rows and
 Enter the realm of schema sorcery, where tables are crafted with predefined structures. Relationships are formed, keys are forged, and constraints are cast. It's like building a symphony of interconnected data notes.
 
 ![Schema Sorcery](/assets/images/schema_sorcery.png)
-Generate the image of a coder conjuring schema spells to define SQL tables.
 
 ## Query Quest: The SQL Crusade
 
@@ -32,7 +30,6 @@ SQL quests involve wielding a sword of queries to traverse structured lands. SEL
 Now behold the NoSQL nexus, a frontier where data roams free. Document, key-value, graph, and column-family realms await. It's like a wild west where unstructured data wanders the open prairies.
 
 ![NoSQL Nexus](/assets/images/nosql_nexus.png)
-Generate the image of a rugged frontier landscape with NoSQL realms in the distance.
 
 ## Document Deserts: The NoSQL Tapestry
 
@@ -43,7 +40,6 @@ In the document desert, NoSQL crafts documents like woven tapestries. MongoDB ma
 Enter the key-value kingdoms, where NoSQL holds treasures with simple keys. Redis sorcerers imbue data with lightning-fast retrieval spells. It's like summoning magic with a single incantation.
 
 ![Key-Value Kingdoms](/assets/images/key_value_kingdoms.png)
-Generate the image of a key-value kingdom where data treasures are guarded by Redis sorcerers.
 
 ## The Great Synthesis: Polyglot Persistence
 

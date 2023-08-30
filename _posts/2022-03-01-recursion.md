@@ -10,7 +10,6 @@ categories: coding-antics
 Ahoy, my fellow code wanderers, prepare to step into the perplexing world of recursion! In this whimsical journey, we'll navigate the bewildering maze of functions calling themselves, and like Alice down the rabbit hole, discover the curious magic within.
 
 ![Recursion Wonderland](/assets/images/recursion_wonderland.png)
-Generate the image of a surreal, recursive maze where mirrors reflect into infinity.
 
 ## Entering the Recursive Wonderland
 
@@ -21,7 +20,6 @@ Imagine a labyrinth with mirrors reflecting into eternity. Recursive functions a
 Recursion is like a funhouse mirror that reflects your own image, ad infinitum. In coding, functions call themselves, diving deeper into a labyrinthine reflection. Each call creates a new level, like an infinitely recursive hall of mirrors.
 
 ![Mirror Maze](/assets/images/mirror_maze.png)
-Generate the image of a whimsical hall of mirrors, where each reflection is a recursive function call.
 
 ## A Tale of Two Worlds: Base and Recursive Cases
 
@@ -32,7 +30,6 @@ In this mirror maze, two worlds coexist: the base and recursive cases. The base 
 Just as fractals are self-replicating patterns, recursion births a symphony of infinite reflections. Each iteration spawns a new set of mirrors, each more intricate than the last. The result is a mesmerizing dance of numbers and logic.
 
 ![Fractal Symphony](/assets/images/fractal_symphony.png)
-Generate the image of a colorful fractal pattern forming as recursion unfolds.
 
 ## The Great Call Stack Circus
 
@@ -43,7 +40,6 @@ Behind the curtains of recursion lies the call stack circus. Functions enter the
 Exiting the recursion labyrinth involves unwinding the magic you've woven. With each return, a mirror is shattered, collapsing the reflections. It's like retracing your steps in the maze, back to reality.
 
 ![Mirror Unwinding](/assets/images/mirror_unwinding.png)
-Generate the image of a maze where mirrors are gradually unwinding, revealing the path out.
 
 ## Embrace the Recursive Riddle
 

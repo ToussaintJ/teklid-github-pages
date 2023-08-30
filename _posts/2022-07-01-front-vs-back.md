@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, code duelists and digital gladiators! Step into the arena of development as we witness the epic clash between the realms of Frontend and Backend. It's a battle where user experience meets server sorcery, and the web is the battleground.
 
 ![Frontend vs. Backend](/assets/images/frontend_backend_duel.png)
-Generate the image of a colosseum-like arena with the Frontend and Backend realms facing off.
 
 ## Frontend Fantasia: The User's Canvas
 
@@ -21,7 +20,6 @@ Imagine frontend as a magical canvas where users immerse themselves. The browser
 Enter the realm of styling sorcery, where CSS weaves a spell of visual elegance. It's like dressing up your canvas in a grand masquerade ball. Fonts twirl, colors dance, and elements adorn themselves in pixel finery.
 
 ![Styling Sorcery](/assets/images/styling_sorcery.png)
-Generate the image of a coder conjuring CSS spells to style a webpage.
 
 ## Script Scrolls: JavaScript Wizardry
 
@@ -32,7 +30,6 @@ JavaScript is like a wizard crafting interactive scrolls. With every incantation
 Now, behold the backend battleground, where the server's dominion lies. Databases and server-side languages rule here. It's like a hidden realm where data is stored, processed, and summoned at the user's request.
 
 ![Backend Battleground](/assets/images/backend_battleground.png)
-Generate the image of a fortress-like server realm guarded by databases and server-side languages.
 
 ## Data Sorcery: Database Incantations
 
@@ -43,7 +40,6 @@ Enter the realm of data sorcery, where databases hold secrets. SQL spells summon
 Server-side languages, like arcane runes, process user requests and conjure responses. PHP, Python, and others weave incantations to create dynamic experiences. It's like whispering secrets in a language only the server understands.
 
 ![Server Spells](/assets/images/server_spells.png)
-Generate the image of a server-side magician casting spells to handle user requests.
 
 ## The Great Convergence: Fullstack Alchemy
 

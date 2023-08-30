@@ -3,7 +3,7 @@ author:
   name: ToussaintJ
 
 description: >
-  I asked ChatGPT to write articles about subjects it choose. The only instruction I gave is: be as vague and confusing as possible. What could go wrong ?
+  I told ChatGPT: We are working to write coding related articles for a blog. We try to make it as confusing as possible as a joke by using a lot of unrelated metaphor and by adding some mistakes. What could go wrong ?
 
 domain: teklid.fr
 baseurl: /
@@ -14,9 +14,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-include:
-  - "_assets/docker"
 
 minima:
   # Minima date format.

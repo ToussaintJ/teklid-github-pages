@@ -10,7 +10,6 @@ categories: coding-antics
 Greetings, data adventurers and code seekers! Join us on a voyage through the mystical realm of database indexing, where we unravel the enigma of swift data retrieval. Imagine an ancient library of data scrolls, each indexed meticulously for rapid discovery.
 
 ![Indexing Library](/assets/images/indexing_library.png)
-Generate the image of a grand library filled with data scrolls, each labeled with an index.
 
 ## Index Scrolls: Finding Needles in Haystacks
 
@@ -21,7 +20,6 @@ Picture database indexes as the cryptic notes scribbled on the edges of scrolls.
 Enter the scribe's chamber, where the B-Tree enchantment is cast. B-Trees, like the magical quills of old, arrange data in a structured hierarchy. With each stroke of the quill, they balance and optimize data access, ensuring efficient retrievals.
 
 ![B-Tree Enchantment](/assets/images/btree_enchantment.png)
-Generate the image of a mystical quill writing on a scroll, transforming it into a B-Tree.
 
 ## Sorting Elixirs: Clustered Index Potions
 
@@ -32,7 +30,6 @@ Imagine a potion master conjuring elixirs that sort and arrange scrolls. Cluster
 Non-clustered indexes are like charms placed on scrolls. An alchemical oracle, they maintain a secret library that maps index to data, pointing seekers to scrolls scattered throughout the labyrinthine archives.
 
 ![Non-Clustered Charms](/assets/images/nonclustered_charms.png)
-Generate the image of a mystical oracle enchanting scrolls with non-clustered index charms.
 
 ## Scroll Seekers: Query Adventurers
 
@@ -43,7 +40,6 @@ As scrolls multiply, brave query adventurers arrive seeking knowledge. They wiel
 Behind the scenes, index enchanters maintain the magic. They reorganize scrolls, balance quills, and refresh charms to ensure the library remains swift and responsive. Much like gardeners tending to enchanted plants, they nurture the data landscape.
 
 ![Index Enchanter](/assets/images/index_enchanter.png)
-Generate the image of an index enchanter tending to a data scroll, refreshing its index.
 
 ## Unearthing Scrolls: The SELECT Expedition
 
